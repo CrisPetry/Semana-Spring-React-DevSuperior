@@ -10,4 +10,4 @@ function notificationButton() {
     )
 }
 
-export default notificationButton
+export default notificationButton;
